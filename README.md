@@ -11,14 +11,11 @@ mkdir ~/Library/Developer/Xcode/Templates/Custom Templates
 To get started You just need to click File -> New -> File…
 
 Find your template in the list.
+
 <img width="734" alt="Template" src="https://github.com/smartoscfintech/smf_xcode_template/assets/140676046/e9843659-2331-4988-9c81-3785227c931c">
+
 
 
 Then type the name of the module.
 
 <img width="736" alt="Name" src="https://github.com/smartoscfintech/smf_xcode_template/assets/140676046/fc311e10-e930-4df4-ae17-b258b02017fe">
-
-
-
-
-
